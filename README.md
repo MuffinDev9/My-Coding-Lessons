@@ -15,3 +15,4 @@ All You Need To Do Is Type:
 ```shell
 print("hello World")
 ```
+After That, Just Press *Execute*, And It Will Appear On The Result Section.  
