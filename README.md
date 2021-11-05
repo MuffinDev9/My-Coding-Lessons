@@ -16,3 +16,9 @@ All You Need To Do Is Type:
 print("hello World")
 ```
 After That, Just Press *Execute*, And It Will Appear On The Result Section.  
+### Comments
+Comments Are Like Code, But They Don't Actually Effect The Program, So When You Execute The Code, It Doesn't Show What Is In The Comment.  
+All You Have To Do Is Type A Hastag, And Then Whatever Text You Want.
+```shell
+# This Is A Comment!
+```
