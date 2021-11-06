@@ -24,6 +24,21 @@ All You Have To Do Is Type A Hastag, And Then Whatever Text You Want.
 ```
 Again, Press Execute, But If You Look, It Will Not Show Your Comment In The Output.  
 ### Variables
- - Boolean: Sets The Variable To True Or False
- - Integer: A Number Value
- - String: A String Of Text
+Variables Are Like Objects That Store Some Kind Of Data Inside Them.  
+There Are Lots Of Data Types, But The Main Ones Are These:  
+ - Boolean: Sets The Variable To True Or False  
+ - Integer: A Number Value  
+ - String: A String Of Text  
+  
+This Is What A Boolean Looks Like:  
+```shell
+Boolean = True
+```
+This Is What An Integer Looks Like:  
+```shell
+Integer = 123
+```
+And, This Is What A String Looks Like:  
+```shell
+String = "I Am A String!"
+```
