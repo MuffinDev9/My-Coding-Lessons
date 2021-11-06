@@ -24,6 +24,6 @@ All You Have To Do Is Type A Hastag, And Then Whatever Text You Want.
 ```
 Again, Press Execute, But If You Look, It Will Not Show Your Comment In The Output.  
 ### Variables
-Variables Are Like Objects In Your Program That Hold Some Kind Of Data.  
-There Are Multiple Types Of Data, But The Main Ones Are:  
- - 
+ - Boolean: Sets The Variable To True Or False
+ - Integer: A Number Value
+ - String: A String Of Text
