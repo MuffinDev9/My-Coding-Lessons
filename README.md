@@ -50,7 +50,29 @@ The Way You Print A Variable Is By Typing The Print Command *With No Speech Mark
 variable = "Hello, World!"
 print(variable)
 ```
-### Combining Strings
+### Combining Strings  
 When You Want To Print A Story, If You Want To Change A Character's Name, But Not The Entire Sentence,  
 You May Want To Use A Variable For Their Name, But You Don't Know How To Put A Variable Inside A Sentence,  
 So If You Are Ever In This Situation, This is What You Do.  
+ - First, Declare A String Variable:  
+```shell
+name = "Muffin"
+```
+ - After, Print What You Want:  
+```shell
+name = "Muffin"
+print("My Name Is ")
+```
+ - Last, Add A Plus After The Speech Marks, And Then The Variable Name:  
+```shell
+name = "Muffin"
+print("My Name Is " + name)
+```
+### Converting Integers(Or Boolean) To Strings
+If You Try The Previous Step With An Integer Or A Boolean, You May Realise It Won't Work.  
+What You Need To Do Is Convert Them To Strings.  
+Now, This Is Simple, You Just Put __str(YourVariable)__ Instead Of Typing Just The Variable Name.  
+```shell
+integer = 2
+print("The Number Is " + str(integer)
+```
