@@ -42,3 +42,11 @@ And, This Is What A String Looks Like:
 ```shell
 String = "I Am A String!"
 ```
+### Printing Variables  
+With Variables, You Can Actually Print Them Onto The Screen Using The Print Command.  
+You *Can Not* Print Different Types Of Strings Together, And I Will Be Covering That More Later.  
+The Way You Print A Variable Is By Typing The Print Command *With No Speech Marks* And Then The NAme Of The Variable Inside The Brackets.  
+```shell
+variable = "Hello, World!"
+print(variable)
+```
