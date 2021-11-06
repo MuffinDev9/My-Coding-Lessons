@@ -51,3 +51,6 @@ variable = "Hello, World!"
 print(variable)
 ```
 ### Combining Strings
+When You Want To Print A Story, If You Want To Change A Character's Name, But Not The Entire Sentence,  
+You May Want To Use A Variable For Their Name, But You Don't Know How To Put A Variable Inside A Sentence,  
+So If You Are Ever In This Situation, This is What You Do.  
