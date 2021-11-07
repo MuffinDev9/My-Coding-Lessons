@@ -76,3 +76,5 @@ Now, This Is Simple, You Just Put __str(YourVariable)__ Instead Of Typing Just T
 integer = 2
 print("The Number Is " + str(integer)
 ```
+## Lesson 2  
+
