@@ -76,5 +76,19 @@ Now, This Is Simple, You Just Put __str(YourVariable)__ Instead Of Typing Just T
 integer = 2
 print("The Number Is " + str(integer)
 ```
+## Homework  
+For Your Homework This Time, I Want You To Make A Short Story, Where There Are At Least Three Things That Can Be Changed Using Variables.  
+You Can Make Anything You Want, But I Want At Least Three Variables To Change.  
+  
+Here Is An Example:
+```shell
+name = "Dave"
+age = 23
+friend = "Dan"
+print("My Name Is " + Name + ",")
+print("I Am " + str(age) + ".")
+print("And I Have A Friend Named " + friend + ",")
+print("We Are " + name + " And " + friend + ".")
+```
 ## Lesson 2  
 
