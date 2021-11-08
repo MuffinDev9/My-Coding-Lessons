@@ -91,4 +91,24 @@ print("And I Have A Friend Named " + friend + ",")
 print("We Are " + name + " And " + friend + ".")
 ```
 ## Lesson 2  
+In This Lesson, We Will Be Learning About Functions.  
+We Will Be Doing Programming That Is A Tiny Bit More Complicated, So Get Ready.  
+### Functions  
+Functions Are Bits Of Code That Store Code Inside Them, They Can Be Activated Multiple Times,  
+And Can Be Minimised To Tidy Up Your Code.  
+An Example Of A Function Would Be Like This:  
+```shell
+# Creating The Function
+def myfunction():
+  print("I Am Inside A Function!")
+
+# Calling The Function
+myfunction()
+```
+
+
+
+
+
+
 
