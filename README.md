@@ -123,3 +123,6 @@ import random
 r = random.randint(1, 1000)
 print(r)
 ```
+### Homework  
+This Time, I Want You To Make Some Code That Generates 2 Random Numbers, And Print Them On To The Screen.  
+I Will Not Give You An Example This Time, So Good Luck!  
