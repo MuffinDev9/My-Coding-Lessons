@@ -105,7 +105,7 @@ def myfunction():
 # Calling The Function
 myfunction()
 ```
-### Function Parameters
+### Function Parameters  
 Parameters Are Variables, But Their Values Are Assigned When You Call A Function.  
 These Parameters Are Created Inside The Brackets Of A Function:  
 When You Are Creating A Function, You Can Put The Parameter Names In The Brackets, Seperated By Commas.  
@@ -115,8 +115,11 @@ def MyFunction(MyParameter)
   print(MyParameter)
 MyFunction("QWERTYUIOPASDFGHJKLZXCVBNM")
 ```
-
-
-
-
-
+### Random Module  
+The Random Module Lets You Randomize Things Inside You Code, Like Creating A Random Number Generator.  
+I Will Teach You How To Make A Simple Random Number Generator, So Here Is An Example:  
+```shell
+import random
+r = random.randint(1, 1000)
+print(r)
+```
