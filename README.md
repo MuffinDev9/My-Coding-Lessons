@@ -108,8 +108,13 @@ myfunction()
 ### Function Parameters
 Parameters Are Variables, But Their Values Are Assigned When You Call A Function.  
 These Parameters Are Created Inside The Brackets Of A Function:  
-When You Are Creating A Function, 
-
+When You Are Creating A Function, You Can Put The Parameter Names In The Brackets, Seperated By Commas.  
+And Then, When You Call The Function, Put The Values Inside Those Brackets.  
+```shell
+def MyFunction(MyParameter)
+  print(MyParameter)
+MyFunction("QWERTYUIOPASDFGHJKLZXCVBNM")
+```
 
 
 
