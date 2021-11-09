@@ -19,7 +19,7 @@ These Parameters Are Created Inside The Brackets Of A Function:
 When You Are Creating A Function, You Can Put The Parameter Names In The Brackets, Seperated By Commas.  
 And Then, When You Call The Function, Put The Values Inside Those Brackets.  
 ```shell
-def MyFunction(MyParameter)
+def MyFunction(MyParameter):
   print(MyParameter)
 MyFunction("QWERTYUIOPASDFGHJKLZXCVBNM")
 ```
@@ -31,3 +31,6 @@ import random
 r = random.randint(1, 1000)
 print(r)
 ```
+### Homework  
+This Time, I Want You To Make Some Code That Generates 2 Random Numbers, And Print Them On To The Screen.  
+I Will Not Give You An Example This Time, So Good Luck!  
