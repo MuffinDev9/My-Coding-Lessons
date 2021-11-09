@@ -105,7 +105,10 @@ def myfunction():
 # Calling The Function
 myfunction()
 ```
-
+### Function Parameters
+Parameters Are Variables, But Their Values Are Assigned When You Call A Function.  
+These Parameters Are Created Inside The Brackets Of A Function:  
+When You Are Creating A Function, 
 
 
 
