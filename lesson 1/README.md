@@ -82,7 +82,7 @@ Here Is An Example:
 name = "Dave"
 age = 23
 friend = "Dan"
-print("My Name Is " + Name + ",")
+print("My Name Is " + name + ",")
 print("I Am " + str(age) + ".")
 print("And I Have A Friend Named " + friend + ",")
 print("We Are " + name + " And " + friend + ".")
